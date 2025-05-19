@@ -1,5 +1,3 @@
-#  B)
-
 > _“Where you are is simply a place you happen to exist in”_
 
 ## Experience
