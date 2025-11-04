@@ -1,4 +1,4 @@
-> _“Where you are is simply a place you happen to exist in”_
+> _“Where you are is simply a place you happen to be”_
 
 ## Experience
 Technology lead of designing and deploying dynamical systems for platform-agnostic multi-user media on the internet via internet protocols and Mostly Algorithmic Graphical Inter-Connections (aka MAGIC). Previously former lead head leader of independent analytical solutions for progressive but functionally regressive independent growth mediums. Barista.
